@@ -77,6 +77,8 @@ pipenv install requests
 
 Isso irá criar o arquivo `Pipfile.lock` e uma explicação sobre o mesmo pode ser [encontrada aqui](https://realpython.com/pipenv-guide/#the-pipfilelock).
 
+Se clonar um repositório que já tenha os arquivos `Pipfile` e `Pipfile.lock`, você pode instalar os pacotes ali informados com o comando: `pipenv install`, que seria equivalente ao `pip install -r requirements.txt`.
+
 ## Testes de unidade com `unittest`
 
 ### Executar testes no terminal
