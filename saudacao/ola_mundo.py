@@ -1,5 +1,3 @@
-
-
 class OlaMundo:
     def __init__(self, mensagem):
         """

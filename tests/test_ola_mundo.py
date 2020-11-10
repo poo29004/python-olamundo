@@ -1,4 +1,4 @@
-from olamundo.ola_mundo import OlaMundo
+from saudacao.ola_mundo import OlaMundo
 from unittest import TestCase
 
 
