@@ -77,6 +77,8 @@ Isso seria equivalente ao comando `pip install -r requirements.txt`.
 
 ## Testes de unidade com `unittest`
 
+No arquivo [test_ola_mundo.py](tests/test_ola_mundo.py) tem um simples teste de unidade feito com o framework [unittest](https://docs.python.org/3/library/unittest.html) do Python.
+
 ### Executar testes no terminal
 
 ```bash

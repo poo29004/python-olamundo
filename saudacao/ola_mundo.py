@@ -1,3 +1,9 @@
+"""Olá mundo em Python
+
+Um pequeno exemplo de uma classe em Python
+
+"""
+
 class OlaMundo:
     def __init__(self, mensagem):
         """

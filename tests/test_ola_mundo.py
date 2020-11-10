@@ -1,5 +1,11 @@
-from saudacao.ola_mundo import OlaMundo
+"""Um pequeno exemplo com teste de unidade.
+
+Para demonstrar como fazer um teste de unidade.
+
+"""
 from unittest import TestCase
+
+from saudacao.ola_mundo import OlaMundo
 
 
 class OlaMundoTestSuite(TestCase):
